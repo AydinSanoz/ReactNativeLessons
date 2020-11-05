@@ -7,7 +7,7 @@
 - UsingTerminal You can see the codes at that phase
 
 ```bash
-git checkout <number which is named as the scrreenShot>
+git checkout <number which is named as the scrreenShotName in the screenShots folder>
 ```
 
 
